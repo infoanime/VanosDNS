@@ -1,20 +1,21 @@
-VanosDNS Community License 1.0
-Copyright (c) 2026 VanosDNS Contributors
+VanosDNS Community License 1.1 
+Copyright (c) 2026 VanosDNS Contributors 
 
-Permission is hereby granted, free of charge, to any person obtaining a copy 
-of this software and associated documentation files (the "Software"), to use, 
-copy, modify, and merge the Software for personal or internal business 
-purposes, subject to the following conditions:
+1. NATURE OF THE AGREEMENT This License is a membership contract governing the use of the "VanosDNS" Software. By downloading, installing, or using the Software, you unconditionally agree to the terms of this agreement. 
 
-1. RESTRICTIONS: The Software, including its source code, any modified 
-   versions (forks), or derivatives, may NOT be sold, sublicensed, or 
-   integrated into a product or service that is sold, leased, or otherwise 
-   monetized (including Software-as-a-Service offerings).
+2. SCOPE OF GRANTED RIGHTS The copyright holders grant the user a non-exclusive, worldwide, perpetual (subject to compliance with Art. 4), and free license to: Reproduce, execute, and display the Software. Modify the source code and create derivative works. Distribute the Software to third parties, provided that such distribution is done entirely free of charge. 
 
-2. ATTRIBUTION: The above copyright notice and this permission notice 
-   shall be included in all copies or substantial portions of the Software.
+3. STRICT PROHIBITION OF ANY FORM OF MONETIZATION The absence of monetization is a fundamental condition of this agreement. The user is prohibited from any exploitation of the Software aimed at generating profit or financial compensation,direct or indirect. The following are expressly prohibited: 
 
-3. NO WARRANTY: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, 
-   EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, 
-   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
-   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
+   3.1 Paid transfer: The sale, rental, paid loan, or transfer of a paid license of the Software or its derivatives. 
+   3.2 Cloud/SaaS Services: Providing access to the Software's features via a network (Internet or otherwise) in exchange       for a subscription, tokens, or any form of payment. 
+   3.3 Tied or indirect sale: Integrating the Software into a comprehensive commercial offer (physical product or service)      where the Software constitutes an added value justifying the price. 
+   3.4 Monetization of Data and Flows: Using the Software to collect, analyze, or resell traffic data (DNS logs), or to         inject advertising content into flows processed by the Software.  
+
+4. TERMINATION CLAUSE AND PENALTIES Any breach of the obligations of Article 3 results in the automatic termination of this license. The user immediately loses all rights to use and distribute.Any persistent use will be considered infringement under the Intellectual Property Code (or equivalent legislation).
+
+5. OBLIGATION TO 'SHARE ALIKE'
+Any distribution of a modified version of the Software must be done under the same "VanosDNS Community License 1.2". No user may impose additional restrictions beyond those set forth here.
+
+6. LIMITATION OF LIABILITY AND WARRANTY
+The Software is provided "as is." The authors do not guarantee suitability for any particular use. Under no circumstances shall they be held liable for direct, indirect, incidental, or special damages arising from the use or inability to use the Software.
